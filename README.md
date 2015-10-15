@@ -11,6 +11,8 @@ This module uses the following **Windows Firewall with Advanced Security API** i
 
 *Supports Windows Server 2008 R2 and later.*
 
+You can also download this module from the [PowerShell Gallery](https://www.powershellgallery.com/packages/cFirewall/).
+
 ## Resources
 
 ### cFirewallRule
@@ -39,10 +41,14 @@ The **cFirewallRule** resource does not modify identically named rules that alre
 
 ## Versions
 
+### 1.0.1 (October 15, 2015)
+
+* Minor update.
+
 ### 1.0.0 (October 14, 2015)
 
 * Initial release with the following resources:
-  - **cFirewallRule**
+  - **cFirewallRule**.
 
 ## Examples
 
